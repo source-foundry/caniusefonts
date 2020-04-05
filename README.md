@@ -13,3 +13,13 @@ Your contributions are welcomed! Fork this repository and submit your changes as
 ## License
 
 This project is licensed under the [Apache License, v2.0](LICENSE).
+
+## Built with Free Software
+
+A huge thanks goes out to these project teams for the software used to build this project:
+
+- [caniuse API](https://github.com/Fyrd/caniuse)
+- [caniuse Embed](https://github.com/ireade/caniuse-embed)
+- [Crunch](https://github.com/chrissimpkins/Crunch)
+- [Inter](https://github.com/rsms/inter)
+- [Recursive](https://github.com/arrowtype/recursive)
