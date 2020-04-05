@@ -14,6 +14,8 @@ Your contributions are welcomed! Fork this repository and submit your changes as
 
 This project is licensed under the [Apache License, v2.0](LICENSE).
 
+The caniuse.com data are licensed under the [CC-BY-4.0 License](https://github.com/Fyrd/caniuse/blob/master/LICENSE).
+
 ## Built with Free Software
 
 A huge thanks goes out to these project teams for the software used to build this project:
